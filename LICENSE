@@ -1,21 +1,66 @@
-MIT License
+KRUIGER LABS COMMUNITY LICENSE
+Version 1.0 — September 2026
 
-Copyright (c) 2026 KruigerLabs
+Copyright © 2026 Kruiger Labs LLC. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software and its associated source code, configuration files, documentation,
+and other included materials (the "Software") are proprietary works of
+Kruiger Labs LLC, except for separately identified third-party materials.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. LICENSE GRANT
+Kruiger Labs LLC grants you a limited, non-exclusive, non-transferable license
+to download, use, and privately modify the Software for your own FiveM server(s).
+No ownership or copyright is transferred to you.
 
+2. REDISTRIBUTION PROHIBITED
+You may not distribute, publish, upload, mirror, share, transfer, sublicense,
+provide, or otherwise make the Software or a modified version available to
+another person or entity without prior written permission from Kruiger Labs LLC.
+This includes GitHub, GitLab, forums, Discord servers, resource websites,
+file-sharing services, marketplaces, and other distribution channels.
+
+3. RESALE PROHIBITED
+You may not sell, rent, lease, sublicense, monetize access to, bundle for sale,
+or otherwise commercially redistribute the Software or a modified version
+without a separate written license from Kruiger Labs LLC. Operating a FiveM
+server that uses the Software does not by itself constitute redistribution.
+
+4. ATTRIBUTION AND OWNERSHIP
+You may not remove, obscure, or misrepresent copyright, ownership, license, or
+attribution notices. You may not claim that the Software, or a substantially
+similar derivative, was originally authored by you or another party.
+
+5. PRIVATE MODIFICATIONS
+Private modifications are permitted solely for your own FiveM server(s).
+Permission to modify does not grant permission to redistribute the original or
+modified Software.
+
+6. THIRD-PARTY MATERIALS
+This license applies only to material for which Kruiger Labs LLC has authority
+to grant these rights. Third-party materials remain subject to their respective
+licenses and notices.
+
+7. PRIOR VERSIONS AND PRIOR LICENSES
+This license applies to versions distributed under this license. It does not
+revoke rights validly granted under a different license for an earlier copy or
+version. Copies previously released under the MIT License remain subject to the
+license terms applicable to those copies.
+
+8. NO WARRANTY
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY LAW,
+KRUIGER LABS LLC SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY
+ARISING FROM OR RELATED TO THE SOFTWARE OR ITS USE.
+
+9. TERMINATION
+Rights under this license terminate automatically upon a material violation of
+these terms. Upon termination, you must cease use or distribution not otherwise
+authorized by law or a separate written agreement.
+
+10. ADDITIONAL PERMISSION
+Permission for redistribution, commercial redistribution, or another use not
+granted here must be obtained in writing from Kruiger Labs LLC.
+
+Official documentation: https://kruigerlabs.xyz/docs/
+Kruiger Labs: https://kruigerlabs.xyz/

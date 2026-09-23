@@ -31,7 +31,7 @@ KruigerLabs
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+Licensed under the **Kruiger Labs Community License v1.0**. You may use and privately modify this resource for your own FiveM server, but redistribution, reuploading, resale, sublicensing, and claiming the work as your own are prohibited. See the `LICENSE` file for the complete terms.
 
 ## 📚 Documentation
 
