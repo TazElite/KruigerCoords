@@ -32,3 +32,18 @@ KruigerLabs
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## 📚 Documentation
+
+For complete installation, configuration, commands, permissions, usage, and troubleshooting, see the official Kruiger Labs documentation.
+
+**📖 Full Documentation:**  
+https://kruigerlabs.xyz/docs/free-scripts/kruigercoords
+
+**📚 Documentation Center:**  
+https://kruigerlabs.xyz/docs/
+
+**❓ FAQ:**  
+https://kruigerlabs.xyz/docs/faq
+
+> For the most up-to-date setup instructions, always refer to the Kruiger Labs Documentation Center.
