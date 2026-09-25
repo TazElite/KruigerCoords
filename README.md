@@ -31,3 +31,7 @@ Kruiger Labs LLC (`KruigerLabs`)
 
 ## License
 Licensed under the **Kruiger Labs Community License v1.0**. See `LICENSE` for complete terms.
+
+## Kruiger Labs
+
+**Project Page:** https://kruigerlabs.xyz/projects/KruigerCoords/
