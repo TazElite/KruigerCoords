@@ -1,49 +1,33 @@
 ![KruigerCoords](assets/banner.png)
 
-# KruigerCoords
+# KruigerCoords — Free FiveM Coordinates Script
 
-A simple standalone FiveM coordinate script that allows players to quickly copy their current `vector4` coordinates and heading to their clipboard using `/coords`.
+KruigerCoords is a lightweight **FiveM coordinates script** that lets players use `/coords` to copy their current `vector4` coordinates and heading directly to the clipboard. It is standalone and has no framework dependencies.
 
-## Installation
-
-1. Download `KruigerCoords`.
-2. Place the resource in your server's `resources` folder.
-3. Add `ensure kruiger_coords` to your `server.cfg`.
-4. Restart your server.
-
-## Usage
-
-Use `/coords` in-game.
-
-Your current coordinates will automatically be copied to your clipboard in this format:
-
-`vector4(215.42, -810.33, 30.73, 157.82)`
-
-## Requirements
-
-- FiveM
-- No framework required
+## Features
+- `/coords` command
+- Copies X, Y, Z, and heading as `vector4`
+- Useful for FiveM development and configuration
+- Standalone; no ESX or QBCore required
 - No dependencies
 
-## Author
+## Installation
+1. Place the resource in your server's `resources` folder.
+2. Add `ensure kruiger_coords` to `server.cfg`.
+3. Restart your server.
 
-KruigerLabs
+## Output example
+```text
+vector4(215.42, -810.33, 30.73, 157.82)
+```
+
+## Documentation
+- Full documentation: https://kruigerlabs.xyz/docs/free-scripts/kruigercoords
+- FiveM scripts: https://kruigerlabs.xyz/fivem
+- Documentation center: https://kruigerlabs.xyz/docs/
+
+## Author
+Kruiger Labs LLC (`KruigerLabs`)
 
 ## License
-
-Licensed under the **Kruiger Labs Community License v1.0**. You may use and privately modify this resource for your own FiveM server, but redistribution, reuploading, resale, sublicensing, and claiming the work as your own are prohibited. See the `LICENSE` file for the complete terms.
-
-## 📚 Documentation
-
-For complete installation, configuration, commands, permissions, usage, and troubleshooting, see the official Kruiger Labs documentation.
-
-**📖 Full Documentation:**  
-https://kruigerlabs.xyz/docs/free-scripts/kruigercoords
-
-**📚 Documentation Center:**  
-https://kruigerlabs.xyz/docs/
-
-**❓ FAQ:**  
-https://kruigerlabs.xyz/docs/faq
-
-> For the most up-to-date setup instructions, always refer to the Kruiger Labs Documentation Center.
+Licensed under the **Kruiger Labs Community License v1.0**. See `LICENSE` for complete terms.
